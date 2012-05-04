@@ -1,0 +1,5 @@
+A simple "game" that I made to test out:
+1. 2D Perlin Noise generation
+2. LWJGL Rendering using OpenGL.
+
+I might add in 3d(animated) noise at one point, I am too lazy right now.
